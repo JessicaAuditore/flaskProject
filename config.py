@@ -1,0 +1,2 @@
+SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://root:xiaokaixian@101.43.147.253:3306/RemoteSensing'
+SQLALCHEMY_TRACK_MODIFICATIONS = True
